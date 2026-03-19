@@ -17,9 +17,9 @@ A simple and interactive console-based Number Guessing Game developed in C++.
 1. Open the project in Visual Studio
 2. Run the program (Ctrl + F5)
 3. Follow on-screen instructions
-
-## 📸 Demo
-(Add your screenshots here)
+4. ## 📂 Code
+You can view the full C++ code 👇(NumberGuessingGame.cpp)
+[Number Guessing Game internship.cpp](https://github.com/user-attachments/files/26126398/Number.Guessing.Game.internship.cpp)
 
 ## 📌 About
 This project was developed as part of my internship task at Softgrow Tech.
